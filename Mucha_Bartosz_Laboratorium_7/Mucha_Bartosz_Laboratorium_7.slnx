@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Mucha_Bartosz_Laboratorium_7/Mucha_Bartosz_Laboratorium_7.vcxproj" />
+</Solution>
