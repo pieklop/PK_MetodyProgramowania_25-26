@@ -1,3 +1,0 @@
-﻿main.obj : error LNK2005: Element "void __cdecl ciagPodzbiorow(__int64 *,int,int)" (?ciagPodzbiorow@@YAXPEA_JHH@Z) jest już zdefiniowany w elemencie Mucha_Bartosz_Program_02.obj
-main.obj : error LNK2005: Element "void __cdecl generujPodzbiory(__int64 *,int)" (?generujPodzbiory@@YAXPEA_JH@Z) jest już zdefiniowany w elemencie Mucha_Bartosz_Program_01.obj
-C:\Users\seh\source\repos\Mucha_Bartosz_Laboratorium_3\x64\Release\Lab3.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol
